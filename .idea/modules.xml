@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/BlackCat_Scrcpy/.idea/BlackCat_Scrcpy.iml" filepath="D:/BlackCat_Scrcpy/.idea/BlackCat_Scrcpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PupperScrcpy.iml" filepath="$PROJECT_DIR$/.idea/PupperScrcpy.iml" />
+      <module fileurl="file://D:/study/.idea/study.iml" filepath="D:/study/.idea/study.iml" />
+    </modules>
+  </component>
+</project>
