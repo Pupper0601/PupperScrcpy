@@ -1,6 +1,6 @@
 # PupperScrcpy（安卓投屏）
 
-![image-20210629174555151](https://pupperc.com/img/20210629174555.png)
+![image-20210629174555151]([https://pupperc.com/img/20210629174555.png](https://github.com/Pupper0601/PupperScrcpy/blob/master/%E6%88%AA%E5%9B%BE.png?raw=true))
 
 #### [Scrcpy 官网](https://github.com/Genymobile/scrcpy/blob/master/README.zh-Hans.md)
 
